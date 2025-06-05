@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**ingohenrique/ingohenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ingo Henrique, passionate about building systems that run smoothly, scale efficiently, and are easy to maintain. I value clarity, speed, and simplicity in everything I do.
 
-Here are some ideas to get you started:
+### 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Degree in Systems Analysis and Development** – [UMC - University of Mogi das Cruzes](https://www.umc.br/)
+- **Postgraduate in Big Data Analysis** – [FIA](https://www.fiaonline.com.br/)
+- **MBA in Software Engineering** – [FIAP](https://www.fiap.com.br/) _(in progress)_
+
+### 🌐 Connect
+
+[![Website - Ingo Henrique (Coming Soon)](https://img.shields.io/badge/Website-yellow)](https://ingohenrique.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingohenrique/)
+
+---
